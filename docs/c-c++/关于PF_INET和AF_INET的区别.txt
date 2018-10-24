@@ -1,0 +1,6 @@
+参考：
+https://www.cnblogs.com/wkun/p/4240472.html
+https://docs.microsoft.com/zh-cn/windows/desktop/api/winsock2/nf-winsock2-socket
+
+AF：address family 地址族
+PF：protocol family 协议族
